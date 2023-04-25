@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682444528 source:c:\users\artur\onedrive\pulpit\ps\dodatkowe\dodatkowe_6.3\main.c
+	<stdio.h>
+	<stdlib.h>
+
